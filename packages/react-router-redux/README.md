@@ -4,6 +4,9 @@
 
 > **Keep your state in sync with your router** :sparkles:
 
+Use this package, but read the docs at:
+https://github.com/reactjs/react-router-redux
+
 This is beta software, it needs:
 
 1. A working example
